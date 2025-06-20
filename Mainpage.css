@@ -452,7 +452,7 @@ body.dark {
   }
 
 .Grid-header{
-  font-size: 21px;
+  font-size: 18px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: 700;
   margin-bottom: 0px;
@@ -462,7 +462,7 @@ body.dark {
 .Grid-text{
   display: flex;
   text-align: center;
-  margin-top: 15px;
+  margin-top: 12px;
   margin-bottom: 0px;
 }
 .Grid-text2{
@@ -471,7 +471,7 @@ body.dark {
 }
 .Grid-text3{
   margin-top: 30px;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 600;
   text-decoration: underline;
   color:black;
